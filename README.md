@@ -10,8 +10,8 @@
 
 > 建议放 2~4 张截图或 GIF。
 
-![游戏截图](docs/screenshot1.png)
-![游戏截图](docs/screenshot2.png)
+![游戏截图](docs/Screenshot_20261001-141120.png)
+![游戏截图](docs/Screenshot_20261001-141136.png)
 
 ## 功能特性
 
