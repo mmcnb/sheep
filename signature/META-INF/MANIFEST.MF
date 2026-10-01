@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Name: 羊了个羊
+MIDlet-Info-URL: http://wap.xmwold.com
+MIDlet-Icon: icon.png
+MIDlet-Vendor: xmwold.com
+MIDlet-1: sheep,icon.png,cn.sheep.sheep
+MIDlet-Version: 1.0.0
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Description: 《羊了个羊》是一款功能机 Java 游戏。玩法简单：点击 顶层方块，将其放入 槽位，槽位中同类方块 凑齐三个 会触发消除。消除所有方块即可通关，游戏结合策略与手速，考验玩家观察与判断能力。
